@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TNU1LmNbFiAn1MjutGOEFXTUhAISKVlvcNCVyG906EaiuWSTeatABZ+IjDD1mSAapR4rT4+NGGnnMlM8fUyrbw==",
+  "dgSpecHash": "500ZtX3HcyfMUC2z76DD68oLj27ue+fTOifENXClFxNOIAZeAIK7wn7qgvVigutN9cIJjoLqeC8utY/iTJ+s1w==",
   "success": true,
   "projectFilePath": "C:\\dev\\Sakura-Chat\\backend\\sakura-chat\\Sakura-Chat.csproj",
   "expectedPackageFiles": [
@@ -32,6 +32,7 @@
     "C:\\Users\\conta\\.nuget\\packages\\microsoft.extensions.objectpool\\2.2.0\\microsoft.extensions.objectpool.2.2.0.nupkg.sha512",
     "C:\\Users\\conta\\.nuget\\packages\\microsoft.extensions.options\\2.2.0\\microsoft.extensions.options.2.2.0.nupkg.sha512",
     "C:\\Users\\conta\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\conta\\.nuget\\packages\\microsoft.net.build.containers\\7.0.306\\microsoft.net.build.containers.7.0.306.nupkg.sha512",
     "C:\\Users\\conta\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "C:\\Users\\conta\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\conta\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

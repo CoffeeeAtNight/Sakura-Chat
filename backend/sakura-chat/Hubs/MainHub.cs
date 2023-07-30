@@ -6,6 +6,7 @@ namespace SakuraChat.Hubs
     {
         public async Task SendMessage(string username, string message)
         {
+            Console.Write("User: " + username + " Sent: " + message );
             await Clients.All.SendAsync("BroadcastMessage", username, message);
         }
     }
