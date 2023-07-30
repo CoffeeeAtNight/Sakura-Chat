@@ -1,0 +1,14 @@
+﻿@page
+@using SakuraChat.Pages;
+@model PrivacyModel
+@{
+    ViewData["Title"] = "Chatroom 1";
+    ViewData["Chatroom-Name"] = "Chatroom 1";
+}
+<h1>@ViewData["Chatroom-Name"]</h1>
+<div id="chat">
+    <ul id="messages"></ul>
+    <input type="text" id="inputMessage" />
+    <button id="sendMessageBtn">Send</button>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/5.0.10/signalr.min.js"></script>

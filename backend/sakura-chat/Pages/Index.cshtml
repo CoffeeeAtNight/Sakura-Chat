@@ -1,0 +1,28 @@
+﻿@page
+@using SakuraChat.Pages;
+@model IndexModel
+@{
+    ViewData["Title"] = "Login";
+}
+<section class="container">
+    <div class="row">
+        <div class="col-12 text-center">
+            <h2>Enter a Chatroom</h2>
+            <div>
+                <div class="input-group mb-3">
+                    <input 
+                        type="text" 
+                        id="username-input"
+                        class="form-control" 
+                        placeholder="Username" 
+                        aria-label="Username" 
+                        aria-describedby="basic-addon1"
+                    >
+                </div>
+
+                <a class="btn btn-primary" id="login-btn" role="button">Enter Chatroom</a>
+            </div>
+        </div>
+    </div>
+</section>
+<script src="~/js/login.js"></script>

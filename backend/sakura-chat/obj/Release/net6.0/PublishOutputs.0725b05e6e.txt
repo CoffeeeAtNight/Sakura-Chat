@@ -1,0 +1,9 @@
+C:\dev\Sakura-Chat\backend\sakura-chat\obj\Release\net6.0\PubTmp\Out\Sakura-Chat.exe
+C:\dev\Sakura-Chat\backend\sakura-chat\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\dev\Sakura-Chat\backend\sakura-chat\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\dev\Sakura-Chat\backend\sakura-chat\obj\Release\net6.0\PubTmp\Out\Sakura-Chat.dll
+C:\dev\Sakura-Chat\backend\sakura-chat\obj\Release\net6.0\PubTmp\Out\Sakura-Chat.deps.json
+C:\dev\Sakura-Chat\backend\sakura-chat\obj\Release\net6.0\PubTmp\Out\Sakura-Chat.runtimeconfig.json
+C:\dev\Sakura-Chat\backend\sakura-chat\obj\Release\net6.0\PubTmp\Out\Sakura-Chat.pdb
+C:\dev\Sakura-Chat\backend\sakura-chat\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\dev\Sakura-Chat\backend\sakura-chat\obj\Release\net6.0\PubTmp\Out\System.Net.WebSockets.WebSocketProtocol.dll
